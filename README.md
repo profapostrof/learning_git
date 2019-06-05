@@ -6,3 +6,5 @@
 
 
 * bu kısım kambaayaozel branchine ozel kodlamıştır * 
+
+### sıçtım batırdım. 
