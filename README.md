@@ -7,3 +7,5 @@
 
 * bu kısım kambaayaozel branchine ozel kodlamıştır * 
 awdawdawdawdawd
+
+### sıçtım batırdım. 
